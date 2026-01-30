@@ -14,3 +14,13 @@ The project “Secure Home Automation System with MQTT + Home Assistant” focus
 The system is based on modern IoT technologies such as ESP32, MQTT, Home Assistant, and the Mosquitto broker, including TLS encryption to ensure secure communications. The architecture is divided into a sensor node (ESP32 with DHT22), an actuator node (ESP32 with relays), and a central server running on a PC.
 
 This project combines knowledge of networking, embedded systems, electronics, and automation, applying in a practical way the skills acquired during the Telecommunications and Computer Systems vocational training program. The estimated budget is €45–€55, with an expected development time of 2–3 weeks.
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
