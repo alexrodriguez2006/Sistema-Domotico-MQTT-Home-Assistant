@@ -1,1 +1,15 @@
+Estado del Arte: Sistemas Domóticos Seguros basados en IoT, MQTT y Home Assistant
 
+En los últimos años, la domótica ha experimentado un crecimiento notable gracias al Internet de las Cosas (IoT), que permite la interconexión de dispositivos inteligentes para la automatización y monitorización de hogares. Los sistemas domóticos modernos se caracterizan por el uso de microcontroladores económicos, protocolos de comunicación ligeros y plataformas de gestión centralizada accesibles desde la red local o Internet.
+
+Uno de los microcontroladores más utilizados en la domótica actual es el ESP32, gracias a su bajo consumo energético, capacidad de procesamiento y compatibilidad con múltiples sensores y actuadores. Este dispositivo se ha consolidado como un estándar en proyectos IoT educativos y profesionales, especialmente en aplicaciones de monitorización ambiental y control remoto.
+
+En cuanto a la comunicación, MQTT (Message Queuing Telemetry Transport) es uno de los protocolos más empleados en sistemas domóticos e industriales. Su modelo publicador/suscriptor permite una comunicación eficiente, escalable y desacoplada entre dispositivos, ideal para entornos con recursos limitados. Los brokers como Mosquitto ofrecen soluciones estables, ligeras y compatibles con mecanismos avanzados de seguridad.
+
+La seguridad en domótica es un aspecto crítico. Sin mecanismos de protección adecuados, las comunicaciones IoT son vulnerables a ataques. Por ello, las soluciones modernas incluyen cifrado TLS/SSL, autenticación mediante certificados y control de accesos para garantizar la confidencialidad e integridad de los datos transmitidos.
+
+En el ámbito de control y visualización, Home Assistant se ha consolidado como una plataforma de automatización del hogar avanzada y ampliamente utilizada. Su naturaleza de software libre, la compatibilidad con una gran variedad de dispositivos IoT y la integración con MQTT lo convierten en una referencia en el sector. Permite crear paneles de control, automatizaciones inteligentes y sistemas de alerta en tiempo real.
+
+Las tendencias actuales apuntan hacia sistemas modulares, escalables y seguros, que integren sensores, actuadores y plataformas centralizadas, priorizando la protección de las comunicaciones y la facilidad de integración. Además, hay un creciente interés en soluciones de bajo coste para entornos educativos, combinando redes, electrónica, programación y ciberseguridad.
+
+El proyecto “Sistema Domótico Seguro con MQTT + Home Assistant” se diferencia de otras soluciones existentes porque no es una copia de trabajos previos. Su originalidad radica en la integración de las mejores prácticas actuales en un entorno formativo y demostrativo, combinando ESP32, comunicación MQTT segura mediante TLS y Home Assistant. Así, el proyecto aplica tecnologías avanzadas y estándares modernos, adaptándolos a un contexto educativo y de aprendizaje práctico, lo que garantiza su carácter único y original.
